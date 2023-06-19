@@ -57,7 +57,7 @@
 
 <!-- Cessna -->
 <ModelMatchRule TypeCode="O1" ModelName="Asobo Savage Cub" />
-<ModelMatchRule TypeCode="C82R" ModelName="Carenado C182 RG II D-ESKY" />
+<ModelMatchRule TypeCode="C82R" ModelName="Carenado C182 RG II D-ESKY//Cessna Skyhawk G1000 Asobo" />
 <ModelMatchRule TypeCode="C120" ModelName="Asobo Savage Cub" />
 <ModelMatchRule TypeCode="C140" ModelName="Asobo Savage Cub" />
 <ModelMatchRule TypeCode="C150" ModelName="Cessna 152 Asobo" />
