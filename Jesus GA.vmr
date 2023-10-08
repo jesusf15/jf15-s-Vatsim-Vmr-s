@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModelMatchRuleSet>
+<!-- General Aviation inc. Business Jets -->
+<!-- Beech -->
+<ModelMatchRule TypeCode="BE19" ModelName="Bonanza G36 Asobo" />
+<ModelMatchRule TypeCode="BE23" ModelName="Bonanza G36 Asobo" />
+<ModelMatchRule TypeCode="BE24" ModelName="Bonanza G36 Asobo" />
+<ModelMatchRule TypeCode="BE33" ModelName="Bonanza G36 Asobo" />
+<ModelMatchRule TypeCode="BE35" ModelName="V35 Bonanza Red Blue" />
+<ModelMatchRule TypeCode="BE35" ModelName="BE35" />
+<ModelMatchRule TypeCode="BE36" ModelName="Bonanza G36 Wavelength Imp Proj" />
+<ModelMatchRule TypeCode="BE36" ModelName="Bonanza G36 Asobo" />
+<ModelMatchRule TypeCode="BE36" ModelName="BE36" />
+<ModelMatchRule TypeCode="BT36" ModelName="Bonanza G36 Wavelength Imp Proj" />
+<ModelMatchRule TypeCode="BT36" ModelName="BE36" />
+<ModelMatchRule TypeCode="BE50" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="BE55" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="BE56" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="BE58" ModelName="Black Square Baron 58 Default Red" />
+<ModelMatchRule TypeCode="BE58" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="BE58" ModelName="BE58ZZZ" />
+<ModelMatchRule TypeCode="BE58T" ModelName="Black Square Baron 58 Default Red" />
+<ModelMatchRule TypeCode="BE58T" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="BE58T" ModelName="BE58ZZZ" />
+<ModelMatchRule TypeCode="B58T" ModelName="Black Square Baron 58P Default Red" />
+<ModelMatchRule TypeCode="B58T" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="B58T" ModelName="BE58ZZZ" />
+<ModelMatchRule TypeCode="BE60" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="BE60" ModelName="BE58ZZZ" />
+<ModelMatchRule TypeCode="BE6T" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="BE6T" ModelName="BE58ZZZ" />
+<ModelMatchRule TypeCode="BE65" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="BE70" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="BE76" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="BE77" ModelName="DV20 Asobo" />
+<ModelMatchRule TypeCode="BE80" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="BE88" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="BE95" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="BE9L" ModelName="Beechcraft King Air 350i Asobo//B350" />
+<ModelMatchRule TypeCode="BE9T" ModelName="Beechcraft King Air 350i Asobo" />
+<ModelMatchRule TypeCode="BE9T" ModelName="B350" />
+<ModelMatchRule TypeCode="BE99" ModelName="Beechcraft King Air 350i Asobo" />
+<ModelMatchRule TypeCode="BE10" ModelName="Beechcraft King Air 350i Asobo" />
+<ModelMatchRule TypeCode="BE20" ModelName="Beechcraft King Air 350i Asobo" />
+<ModelMatchRule TypeCode="BE30" ModelName="Beechcraft King Air 350i Asobo" />
+<ModelMatchRule TypeCode="B350" ModelName="Beechcraft King Air 350i Asobo" />
+<ModelMatchRule TypeCode="TEX2" ModelName="VL3 Asobo" />
+
+<!-- Bombardier -->
+<ModelMatchRule TypeCode="CL30" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="CL35" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="CL60" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="GL5T" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="GL7T" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="GLEX" ModelName="Cessna Longitude Asobo" />
+
+<!-- Cessna -->
+<ModelMatchRule TypeCode="O1" ModelName="Asobo Savage Cub" />
+<ModelMatchRule TypeCode="C82R" ModelName="Carenado C182 RG II D-ESKY" />
+<ModelMatchRule TypeCode="C82R" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C120" ModelName="Asobo Savage Cub" />
+<ModelMatchRule TypeCode="C140" ModelName="Asobo Savage Cub" />
+<ModelMatchRule TypeCode="C150" ModelName="Cessna 152 Asobo" />
+<ModelMatchRule TypeCode="C152" ModelName="Cessna 152 Asobo" />
+<ModelMatchRule TypeCode="C162" ModelName="Cessna 152 Asobo" />
+<ModelMatchRule TypeCode="C170" ModelName="Asobo Savage Cub" />
+<ModelMatchRule TypeCode="C172" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C72R" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C77R" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C175" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C177" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C180" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C182" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C185" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C188" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C188" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C190" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C195" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C205" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C206" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C207" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C06T" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C07T" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX" />
+<ModelMatchRule TypeCode="C210" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C10T" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C303" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="C310" ModelName="Milviz 310R N5077J" />
+<ModelMatchRule TypeCode="C320" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="C336" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C337" ModelName="Carenado c337 Skymaster Red Swoop" />
+<ModelMatchRule TypeCode="P337" ModelName="Cessna Skyhawk G1000 Asobo" />
+<ModelMatchRule TypeCode="C340" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="COL3" ModelName="SR22 Asobo" />
+<ModelMatchRule TypeCode="COL4" ModelName="SR22 Asobo" />
+<ModelMatchRule TypeCode="C402" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="C02T" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="C404" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="C04T" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="F406" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="C411" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="C414" ModelName="Cessna 414A N356II GTN750" />
+<ModelMatchRule TypeCode="C414" ModelName="C414" />
+<ModelMatchRule TypeCode="C14T" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="C421" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="C21T" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="C425" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="C441" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="C25A" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="C25A" ModelName="C25A" />
+<ModelMatchRule TypeCode="C25B" ModelName="C25BZZZ" />
+<ModelMatchRule TypeCode="C25B" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="C25C" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="C500" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="C501" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="C510" ModelName="Cockspur C510 N510CJ" />
+<ModelMatchRule TypeCode="C510" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="C525" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="C550" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="C560" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="C56X" ModelName="Cessna Citation Longitude N1WP" />
+<ModelMatchRule TypeCode="C650" ModelName="Cessna Citation Longitude N1WP" />
+<ModelMatchRule TypeCode="C680" ModelName="Cessna Citation Longitude N1WP" />
+<ModelMatchRule TypeCode="C68A" ModelName="Cessna Citation Longitude N1WP" />
+<ModelMatchRule TypeCode="C700" ModelName="Cessna Citation Longitude N1WP" />
+<ModelMatchRule TypeCode="C750" ModelName="Cessna Citation Longitude N1WP" />
+
+<!-- Cirrus -->
+<ModelMatchRule TypeCode="SR20" ModelName="SR22 Asobo" />
+<ModelMatchRule TypeCode="SR22" ModelName="SR22 Asobo" />
+<ModelMatchRule TypeCode="S22T" ModelName="SR22 Asobo" />
+<ModelMatchRule TypeCode="SF50" ModelName="FFX Vision Jet N36BN" />
+<ModelMatchRule TypeCode="SF50" ModelName="Cessna CJ4 Citation Asobo" />
+
+<!-- Dassault -->
+<ModelMatchRule TypeCode="FA10" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="FA20" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="FA50" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="F900" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="F2TH" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="FA6X" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="FA7X" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="FA8X" ModelName="Cessna Longitude Asobo" />
+
+<!-- Diamond -->
+<ModelMatchRule TypeCode="DV20" ModelName="DV20 Asobo" />
+<ModelMatchRule TypeCode="DA20" ModelName="DV20 Asobo" />
+<ModelMatchRule TypeCode="DA40" ModelName="DA40-NG Asobo" />
+<ModelMatchRule TypeCode="DA41" ModelName="DA40-NG Asobo" />
+<ModelMatchRule TypeCode="DA42" ModelName="DA62 Asobo" />
+<ModelMatchRule TypeCode="DA52" ModelName="DA40-NG Asobo" />
+<ModelMatchRule TypeCode="DA62" ModelName="DA62 Asobo" />
+
+<!-- Embraer -->
+<ModelMatchRule TypeCode="E50P" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="E55P" ModelName="E55P" />
+<ModelMatchRule TypeCode="E55P" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="E545" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="E550" ModelName="Cessna Longitude Asobo" />
+
+<!-- Gulfstream -->
+<ModelMatchRule TypeCode="ASTR" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="G150" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="G250" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="G280" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="GA5C" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="GA6C" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="GA7C" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="GALX" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="GLF2" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="GLF3" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="GLF4" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="GLF5" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="GLF6" ModelName="Cessna Longitude Asobo" />
+
+<!-- Hawker/Beechjet -->
+<ModelMatchRule TypeCode="PRM1" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="BE40" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="BE4W" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="H25A" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="H25B" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="H25c" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="HA4T" ModelName="Cessna Longitude Asobo" />
+
+<!-- Hondajet -->
+<ModelMatchRule TypeCode="HDJT" ModelName="Cessna CJ4 Citation Asobo" />
+
+<!-- Learjet -->
+<ModelMatchRule TypeCode="LJ23" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="LJ24" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="LJ25" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="LJ28" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="LJ23" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="LJ31" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="LJ35" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="LJ40" ModelName="Cessna CJ4 Citation Asobo" />
+<ModelMatchRule TypeCode="LJ45" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="LJ55" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="LJ60" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="LJ70" ModelName="Cessna Longitude Asobo" />
+<ModelMatchRule TypeCode="LJ75" ModelName="Cessna Longitude Asobo" />
+
+<!-- Pilatus -->
+<ModelMatchRule TypeCode="PC6P" ModelName="Pilatus PC-6 G950 Wheels" />
+<ModelMatchRule TypeCode="PC6T" ModelName="Pilatus PC-6 G950 Wheels" />
+<ModelMatchRule TypeCode="PC12" ModelName="PC-12 CommandAir" />
+<ModelMatchRule TypeCode="PC12" ModelName="Generic Turbo Single Engine Asobo 00//Generic Turbo Single Engine Asobo 01//Generic Turbo Single Engine Asobo 02" />
+<ModelMatchRule TypeCode="PC21" ModelName="VL3 Asobo" />
+<ModelMatchRule TypeCode="PC24" ModelName="Cessna CJ4 Citation Asobo" />
+
+<!-- Piper -->
+<ModelMatchRule TypeCode="J2" ModelName="Asobo Savage Cub" />
+<ModelMatchRule TypeCode="J3" ModelName="Asobo Savage Cub" />
+<ModelMatchRule TypeCode="J4" ModelName="Asobo Savage Cub" />
+<ModelMatchRule TypeCode="J5" ModelName="Asobo Savage Cub" />
+<ModelMatchRule TypeCode="PA11" ModelName="Asobo Savage Cub" />
+<ModelMatchRule TypeCode="PA18" ModelName="Asobo Savage Cub" />
+<ModelMatchRule TypeCode="PA23" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="PA24" ModelName="A2A Piper PA-24-250 Comanche N8351P//A2A Piper PA-24-250 Comanche N7791P//A2A Piper PA-24-250 Comanche N84VK//" />
+<ModelMatchRule TypeCode="PA27" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="P28A" ModelName="P28A" />
+<ModelMatchRule TypeCode="P28A" ModelName="Bonanza G36 Asobo" />
+<ModelMatchRule TypeCode="P28B" ModelName="Bonanza G36 Asobo" />
+<ModelMatchRule TypeCode="P28R" ModelName="Just Flight PA28 Turbo Arrow III N48427" />
+<ModelMatchRule TypeCode="P28S" ModelName="Just Flight PA28 Turbo Arrow III N48427" />
+<ModelMatchRule TypeCode="P28T" ModelName="Just Flight PA28 Turbo Arrow IV N3023K" />
+<ModelMatchRule TypeCode="P28U" ModelName="Just Flight PA28 Turbo Arrow IV N3023K" />
+<ModelMatchRule TypeCode="P28R" ModelName="P28RZZZ" />
+<ModelMatchRule TypeCode="P28S" ModelName="P28RZZZ" />
+<ModelMatchRule TypeCode="P28T" ModelName="P28RZZZ" />
+<ModelMatchRule TypeCode="PA30" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="PA31" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="PAY1" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="PAY2" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="PAY3" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="PA32" ModelName="Bonanza G36 Asobo" />
+<ModelMatchRule TypeCode="P32R" ModelName="Bonanza G36 Asobo" />
+<ModelMatchRule TypeCode="P32T" ModelName="Bonanza G36 Asobo" />
+<ModelMatchRule TypeCode="PA34" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="PA38" ModelName="DV20 Asobo" />
+<ModelMatchRule TypeCode="PA44" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="PA46" ModelName="TBM 930 Asobo" />
+<ModelMatchRule TypeCode="P46T" ModelName="TBM 930 Asobo" />
+<ModelMatchRule TypeCode="M600" ModelName="TBM 930 Asobo" />
+<ModelMatchRule TypeCode="AEST" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="PAT4" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="P40" ModelName="Bonanza G36 Asobo" />
+
+<!-- Socata/TBM -->
+<ModelMatchRule TypeCode="TB20" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="TB21" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="TBM7" ModelName="TBM 930 Asobo" />
+<ModelMatchRule TypeCode="TBM8" ModelName="Black Square TBM 850 Feather Red//Black Square TBM 850 Red & Gold//Black Square TBM 850 Blue Ribbons//Black Square TBM 850 Red & Silver//Black Square TBM 850 Blue Lines//Black Square TBM 850 Orange//" />
+<ModelMatchRule TypeCode="TBM9" ModelName="TBM 930 Asobo" />
+
+<!-- Other -->
+<ModelMatchRule TypeCode="A5" ModelName="Icon A5 Asobo" />
+<ModelMatchRule TypeCode="A5" ModelName="A5" />
+<ModelMatchRule TypeCode="AA5" ModelName="DR400 Asobo" />
+<ModelMatchRule TypeCode="AC11" ModelName="Asobo Baron G58" />
+<ModelMatchRule TypeCode="AC50" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="AC56" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="AC68" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="AC6L" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="AC80" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="CC19" ModelName="Asobo XCub//Asobo NXCub" />
+<ModelMatchRule TypeCode="CP10" ModelName="Mudry Cap 10 C" />
+<ModelMatchRule TypeCode="DR22" ModelName="Mudry Cap 10 C" />
+<ModelMatchRule TypeCode="DR30" ModelName="DR400 Asobo" />
+<ModelMatchRule TypeCode="DR40" ModelName="DR400 Asobo" />
+<ModelMatchRule TypeCode="E200" ModelName="Extra 330 Asobo" />
+<ModelMatchRule TypeCode="E230" ModelName="Extra 330 Asobo" />
+<ModelMatchRule TypeCode="E300" ModelName="Extra 330 Asobo" />
+<ModelMatchRule TypeCode="FDCT" ModelName="FlightDesignCT Asobo" />
+<ModelMatchRule TypeCode="G115" ModelName="DA40-NG Asobo" />
+<ModelMatchRule TypeCode="MU2" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="P180" ModelName="Generic Turbo Multi Engines Asobo 00//Generic Turbo Multi Engines Asobo 01//Generic Turbo Multi Engines Asobo 02" />
+<ModelMatchRule TypeCode="PIAT" ModelName="Pipistrel Alpha Electro Asobo" />
+<ModelMatchRule TypeCode="PTS1" ModelName="Pitts Asobo" />
+<ModelMatchRule TypeCode="PTS2" ModelName="Pitts Asobo" />
+<ModelMatchRule TypeCode="PTMS" ModelName="Pitts Asobo" />
+<ModelMatchRule TypeCode="PTSS" ModelName="Pitts Asobo" />
+<ModelMatchRule TypeCode="SAVG" ModelName="Asobo Savage Cub//Savage Shock Ultra Asobo" />
+<ModelMatchRule TypeCode="VL3" ModelName="VL3 Asobo" />
+<ModelMatchRule TypeCode="VO10" ModelName="Cessna 152 Asobo" />
+<ModelMatchRule TypeCode="RV14" ModelName="Van's RV-14A Blue" />
+<ModelMatchRule TypeCode="K100" ModelName="Kodiak 100 tundra tyres, Factory paint A1" />
+<ModelMatchRule TypeCode="FOX" ModelName="Asobo XCub//Asobo NXCub" />
+<ModelMatchRule TypeCode="DHC2" ModelName="Blackbird Simulations DHC-2 Beaver Floats N93E" />
+<ModelMatchRule TypeCode="DHC1" ModelName="Blackbird Simulations DHC-2 Beaver 35 Bush Wheels Blackbird" />
+<ModelMatchRule TypeCode="DC3" ModelName="Douglas DC-3 METAL LEFT" />
+<ModelMatchRule TypeCode="EPIC" ModelName="TBM 930 Asobo" />
+
+<!-- Gliders -->
+<ModelMatchRule TypeCode="ARCE" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="ARCP" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="DG1T" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="DG80" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="DISC" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="DUOD" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="JANU" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="LAE1" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="QINT" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="S6" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="S10S" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="S12S" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="VENT" ModelName="Discus-2c: Default" />
+<ModelMatchRule TypeCode="VNTE" ModelName="Discus-2c: Default" />
+
+<!-- Helicopters -->
+<ModelMatchRule CallsignPrefix="HLE" TypeCode="EC35" ModelName="Airbus H135 SAMU//Airbus H135 Sky Health//Airbus H135 Norsk Luftambulanse" />
+<ModelMatchRule CallsignPrefix="HLE" TypeCode="EC45" ModelName="Airbus H135 SAMU//Airbus H135 Sky Health//Airbus H135 Norsk Luftambulanse" />
+<ModelMatchRule CallsignPrefix="HLE" TypeCode="A109" ModelName="Airbus H135 SAMU//Airbus H135 Sky Health//Airbus H135 Norsk Luftambulanse" />
+<ModelMatchRule CallsignPrefix="HLE" TypeCode="A139" ModelName="Airbus H135 SAMU//Airbus H135 Sky Health//Airbus H135 Norsk Luftambulanse" />
+<ModelMatchRule CallsignPrefix="HLE" TypeCode="A169" ModelName="Airbus H135 SAMU//Airbus H135 Sky Health//Airbus H135 Norsk Luftambulanse" />
+<ModelMatchRule CallsignPrefix="HLE" TypeCode="EXPL" ModelName="Airbus H135 SAMU//Airbus H135 Sky Health//Airbus H135 Norsk Luftambulanse" />
+<ModelMatchRule CallsignPrefix="HLE" TypeCode="AS65" ModelName="Airbus H135 SAMU//Airbus H135 Sky Health//Airbus H135 Norsk Luftambulanse" />
+<ModelMatchRule CallsignPrefix="HLE" TypeCode="S65C" ModelName="Airbus H135 SAMU//Airbus H135 Sky Health//Airbus H135 Norsk Luftambulanse" />
+<ModelMatchRule CallsignPrefix="HLE" TypeCode="B429" ModelName="Airbus H135 SAMU//Airbus H135 Sky Health//Airbus H135 Norsk Luftambulanse" />
+<ModelMatchRule CallsignPrefix="UKP" TypeCode="EC35" ModelName="Airbus H135 UK Police Air Service" />
+<ModelMatchRule CallsignPrefix="UKP" TypeCode="EC45" ModelName="Airbus H135 UK Police Air Service" />
+<ModelMatchRule TypeCode="EC20" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="EC25" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="EC30" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="EC35" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="EC45" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="EC55" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="EC75" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="EC35" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="A109" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="A119" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="A129" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="A139" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="A149" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="A169" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="A189" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B47G" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B47J" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B06" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B06T" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B212" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B214" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B222" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B230" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B407" ModelName="Bell 407 Blue Stripes" />
+<ModelMatchRule TypeCode="B412" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B427" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B429" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B430" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B505" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="B525" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="S61" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="S76" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="S92" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="AS50" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="AS55" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="R22" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="R44" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="R66" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+<ModelMatchRule TypeCode="H47" ModelName="Airbus H135//Airbus H135 Corporate//Airbus H135 HPG//Airbus H135 BLUE BIRD//Airbus H135 AIRBUS//Airbus H135 HEX-01" />
+
+<!-- Military -->
+<ModelMatchRule TypeCode="EUFI" ModelName="Boeing F/A 18E Super Hornet Asobo" />
+<ModelMatchRule TypeCode="F15" ModelName="Boeing F/A 18E Super Hornet Asobo" />
+<ModelMatchRule TypeCode="F16" ModelName="Boeing F/A 18E Super Hornet Asobo" />
+<ModelMatchRule TypeCode="F18H" ModelName="Boeing F/A 18E Super Hornet Asobo" />
+<ModelMatchRule TypeCode="F18S" ModelName="Boeing F/A 18E Super Hornet Asobo" />
+<ModelMatchRule TypeCode="F22" ModelName="Boeing F/A 18E Super Hornet Asobo" />
+<ModelMatchRule TypeCode="F35" ModelName="Boeing F/A 18E Super Hornet Asobo" />
+<ModelMatchRule TypeCode="VF35" ModelName="Boeing F/A 18E Super Hornet Asobo" />
+<ModelMatchRule TypeCode="HAWK" ModelName="Boeing F/A 18E Super Hornet Asobo" />
+<ModelMatchRule TypeCode="G12T" ModelName="VL3 Asobo" />
+<ModelMatchRule TypeCode="BDOG" ModelName="DA40-NG Asobo" />
+
+</ModelMatchRuleSet>
