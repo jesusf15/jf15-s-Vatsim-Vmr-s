@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModelMatchRuleSet>
+<!-- Commandair -->
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="A320" ModelName="Fenix A320 IAE CommandAir-4K" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="A320" ModelName="Fenix A320 CFM CommandAir-4K" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="A320" ModelName="FBW CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="A20N" ModelName="FBW CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="A20N" ModelName="FenixA320_CommandAir-4K" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="B737" ModelName="PMDG 737-700 CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="B737" ModelName="PMDG 737-800 CommandAir-BW" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="C414" ModelName="Cessna 414AW CommandAir GNS530" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="C510" ModelName="Cockspur C510 CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="PC12" ModelName="PC-12 CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="B462" ModelName="Just Flight 146-300 CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="B350" ModelName="Black Square King Air 350 CommandAir-Blacksquare" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="C208" ModelName="Black Square 208B Grand Caravan CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="C208" ModelName="Cessna 208B Grand Caravan EX CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="TBM9" ModelName="TBM 930 CommandAir Airways" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="CRJ7" ModelName="CRJ550ER CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="CRJ9" ModelName="CRJ_900-CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="CRJ9" ModelName="CRJ550ER CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="CRJX" ModelName="CRJ_1000-CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="CRJX" ModelName="CRJ550ER CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="A310" ModelName="Airbus A310-300 CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="A310" ModelName="Airbus A310-300 CommandAir-Metal" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="DC3" ModelName="Douglas DC-3 CommandAir-PaxCargo-Retrofit" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="KODI" ModelName="Kodiak 100 CommandAir No Painted Reg" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="C25C" ModelName="CJ4 CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="B738" ModelName="PMDG 737-800 CommandAir-BW" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="B738" ModelName="PMDG 737-700 CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="DC6" ModelName="PMDG DC-6B CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="AT76" ModelName="ATR 72-600 CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="AT46" ModelName="ATR42 CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="MD82" ModelName="Fly The Maddog X MD-83 - CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="B77W" ModelName="PMDG 777-300ER CommandAir" />
+<ModelMatchRule CallsignPrefix="CXC" TypeCode="B722" ModelName="Boeing B727-200 Freighter CommandAir" />
+
+</ModelMatchRuleSet>
